@@ -43,7 +43,7 @@ Con K=3 (silhouette score = 0.397), el modelo segmentó a los estados así:
 
 Se validó visualmente con una proyección PCA (40 dimensiones → 2), confirmando la separación entre los dos outliers extremos (Cluster 0), el grupo intermedio (Cluster 2), y la masa compacta del resto de estados (Cluster 1).
 
-## Hallazgos y dificultades (con honestidad)
+## Hallazgos y dificultades
 
 Este proyecto tuvo un hallazgo importante que decidí documentar en lugar de ocultar, porque refleja el tipo de pensamiento crítico que me parece más valioso que un resultado "perfecto":
 
